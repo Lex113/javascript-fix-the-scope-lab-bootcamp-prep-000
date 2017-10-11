@@ -32,4 +32,3 @@ var theFunk = funkyFunction();
 theFunk();
 */
 var theFunk = funkyFunction()();
-
